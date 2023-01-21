@@ -22,7 +22,7 @@
 			"pipliz.stonemason",
 			"pipliz.researcher"
 		],
-		"icon": "./textures/icons/alphabetblock_A.png",
+		"icon": "./textures/icons/alphabet_block_crafters_workbench.png",
 		"itemRequirements": [
 			{
 				"amount": 200,

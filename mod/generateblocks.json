@@ -13,12 +13,19 @@
 				"job"
 			],
 			"destructionTime": 800,
-			"icon": "gamedata/textures/icons/kiln.png",
+			"icon": "./textures/icons/alphabet_block_crafters_workbench.png",
 			"needsBase": true,
 			"onPlaceAudio": "dirtPlace",
 			"onRemoveAudio": "grassDelete",
 			"pathingImpact": "AsUntouchableSolid",
-			"sideall": "dirt"
+			"lightingTransparency": 0,
+			"mesh": "./textures/meshes/alphabet_block_crafters_workbench.ply",
+			"sideall": "neutral",
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			}
 		},
 		"generateType": "rotateBlock",
 		"sideFrontUnlit": "kiln",
