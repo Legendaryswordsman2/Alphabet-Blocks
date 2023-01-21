@@ -1,0 +1,189 @@
+{
+  "GMS_alphabet_block_crafter": {
+    "categories": [
+      "GMS_E_job"
+    ]
+  },
+  // Alphabet Blocks
+  "GMS.AlphabetBlock_A": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_B": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_C": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_D": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_E": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_F": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_G": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_H": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_I": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_J": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_K": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_L": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_M": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_N": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_O": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_P": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_Q": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_R": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_S": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_T": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_U": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_V": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_W": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_X": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_Y": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  "GMS.AlphabetBlock_Z": {
+    "categories": [
+      "GMS_RA_alphabet_blocks"
+    ]
+  },
+  // Number Blocks
+  "GMS.NumberBlock_0": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_1": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_2": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_3": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_4": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_5": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_6": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_7": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_8": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  },
+  "GMS.NumberBlock_9": {
+    "categories": [
+      "GMS_RB_letter_blocks"
+    ]
+  }
+}

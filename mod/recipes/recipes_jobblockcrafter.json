@@ -1,0 +1,29 @@
+[
+	{
+		"cooldown": 350,
+		"defaultLimit": 2,
+		"name": "GMS.alphabet_block_crafters_workbench",
+		"requires": [
+			{
+				"amount": 4,
+				"type": "planks"
+			},
+			{
+				"amount": 100,
+				"type": "paper"
+			},
+			{
+				"amount": 4,
+				"type": "bookofknowledge"
+			}
+
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS_alphabet_block_crafter"
+			}
+		],
+		"sortWeight": 15427
+	}
+]

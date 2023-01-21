@@ -1,0 +1,58 @@
+{
+  "sentences": {
+    "category": {
+      "alphabet_blocks": "Alphabet Blocks",
+      "number_blocks": "Number Blocks"
+    },
+    "GMS": {
+      "alphabetblocks": {
+        "description": "Unlocks the Alphabet Block Crafter's Workbench for production of alphabet and letter blocks",
+        "name": "Alphabet Blocks"
+      }
+    },
+    "npcs": {
+      "GMS": {
+        "alphabet_block_crafter": "Alphabet Block Crafter"
+      }
+    }
+  },
+    "types": {
+      "GMS_alphabet_block_crafter": "Alphabet Block Crafter's Worknech",
+      "GMS.AlphabetBlock_A": "Alphabet Block A ",
+      "GMS.AlphabetBlock_B": "Alphabet Block B ",
+      "GMS.AlphabetBlock_C": "Alphabet Block C ",
+      "GMS.AlphabetBlock_D": "Alphabet Block D ",
+      "GMS.AlphabetBlock_E": "Alphabet Block E ",
+      "GMS.AlphabetBlock_F": "Alphabet Block F ",
+      "GMS.AlphabetBlock_G": "Alphabet Block G ",
+      "GMS.AlphabetBlock_H": "Alphabet Block H ",
+      "GMS.AlphabetBlock_I": "Alphabet Block I ",
+      "GMS.AlphabetBlock_J": "Alphabet Block J ",
+      "GMS.AlphabetBlock_K": "Alphabet Block K ",
+      "GMS.AlphabetBlock_L": "Alphabet Block L ",
+      "GMS.AlphabetBlock_M": "Alphabet Block M ",
+      "GMS.AlphabetBlock_N": "Alphabet Block N ",
+      "GMS.AlphabetBlock_O": "Alphabet Block O ",
+      "GMS.AlphabetBlock_P": "Alphabet Block P ",
+      "GMS.AlphabetBlock_Q": "Alphabet Block Q ",
+      "GMS.AlphabetBlock_R": "Alphabet Block R ",
+      "GMS.AlphabetBlock_S": "Alphabet Block S ",
+      "GMS.AlphabetBlock_T": "Alphabet Block T ",
+      "GMS.AlphabetBlock_U": "Alphabet Block U ",
+      "GMS.AlphabetBlock_V": "Alphabet Block V ",
+      "GMS.AlphabetBlock_W": "Alphabet Block W ",
+      "GMS.AlphabetBlock_X": "Alphabet Block X ",
+      "GMS.AlphabetBlock_Y": "Alphabet Block Y ",
+      "GMS.AlphabetBlock_Z": "Alphabet Block Z ",
+      "GMS.NumberBlock_0": "Number Block 0",
+      "GMS.NumberBlock_1": "Number Block 1",
+      "GMS.NumberBlock_2": "Number Block 2",
+      "GMS.NumberBlock_3": "Number Block 3",
+      "GMS.NumberBlock_4": "Number Block 4",
+      "GMS.NumberBlock_5": "Number Block 5",
+      "GMS.NumberBlock_6": "Number Block 6",
+      "GMS.NumberBlock_7": "Number Block 7",
+      "GMS.NumberBlock_8": "Number Block 8",
+      "GMS.NumberBlock_9": "Number Block 9"
+    }
+  }

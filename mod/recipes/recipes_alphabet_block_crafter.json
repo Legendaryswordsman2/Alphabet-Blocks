@@ -1,0 +1,574 @@
+[
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_A_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_A"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_B_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_B"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_C_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_C"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_D_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_D"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_E_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_E"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_F_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_F"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_G_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_G"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_H_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_H"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_I_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_I"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_J_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_J"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_K_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_K"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_L_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_L"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_M_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_M"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_N_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_N"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_O_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_O"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_P_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_P"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_Q_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_Q"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_R_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_R"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_S_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_S"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_T_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_T"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_U_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_U"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_V_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_V"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_W_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_W"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_X_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_X"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_Y_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_Y"
+			}
+		],
+		"sortWeight": 15427
+	},
+	{
+		"cooldown": 200,
+		"defaultLimit": 20,
+		"name": "GMS.AlphabetBlock_Z_Recipe",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 50,
+				"type": "paper"
+			}
+		],
+		"requiresScience": "GMS.alphabetblocks",
+		"results": [
+			{
+				"type": "GMS.AlphabetBlock_Z"
+			}
+		],
+		"sortWeight": 15427
+	}
+]

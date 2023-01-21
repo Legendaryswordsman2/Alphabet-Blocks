@@ -1,0 +1,39 @@
+[
+	/* supported fields for AddScience / AddOrOverrideScience entries
+		requireScienceBiome -> if set, this will autocomplete the science if the colony has a banner in said sciencebiome, bypassing other requirements
+		icon -> icon path relative to this json file
+		colonistCount -> threshold required to be able to complete
+		colonyPointRequirement -> quantity required that'll be consumed on complete
+		itemRequirements -> array of amount/type pairs of items that'll be consumed when completing the science
+		dependencies -> array of other science keys which are required to be completed before this one can be completed
+		unlocksRecipes -> array of recipe keys which will be unlocked when this research is completed. Recipes may require multiple researches to show up.
+		unlocksRecipeGroups -> same as unlocksRecipes, but counts *all* recipes associated with the NPCTypes put in this array
+		unlocksClientHints -> array of "hints", which will be visualized on the client but otherwise do nothing. Presumably some code is added to run on completion that does do something.
+			Example hint format on next lines
+			{
+				"data": "pipliz.diggerspecial",
+				"type": "NPCType"
+			}
+		threatIncrease -> how much the monster threat level increases upon completing this science
+		for AddScienceUnlocks entries, it only supports unlocksRecipes and unlocksRecipeGroups
+		*/
+	{
+		"dependencies": [
+			"pipliz.stonemason",
+			"pipliz.researcher"
+		],
+		"icon": "./textures/icons/alphabetblock_A.png",
+		"itemRequirements": [
+			{
+				"amount": 200,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 500,
+				"type": "paper"
+			}
+		],
+		"key": "GMS.alphabetblocks",
+		"sortWeight": 2164
+	}
+]

@@ -1,0 +1,198 @@
+{
+	"_settings": {
+		"defaultAlbedo": "./materials/blocks/albedo/error.png",
+		"defaultEmissive": "./materials/blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight": "./materials/blocks/heightSmoothnessSpecularity/neutral.png",
+		"defaultNormal": "./materials/blocks/normal/neutral.png",
+		"fileExtension": ".png",
+		"folderAlbedo": "./materials/blocks/albedo/",
+		"folderEmissive": "./materials/blocks/emissiveMaskAlpha/",
+		"folderHeight": "./materials/blocks/heightSmoothnessSpecularity/",
+		"folderNormal": "./materials/blocks/normal/"
+	},
+	"GMS.AlphabetBlock_blank": {
+		"albedo": "alphabetblock_blank",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_A": {
+		"albedo": "alphabetblock_A",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_B": {
+		"albedo": "alphabetblock_B",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_C": {
+		"albedo": "alphabetblock_C",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_D": {
+		"albedo": "alphabetblock_D",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_E": {
+		"albedo": "alphabetblock_E",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_F": {
+		"albedo": "alphabetblock_F",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_G": {
+		"albedo": "alphabetblock_G",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_H": {
+		"albedo": "alphabetblock_H",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_I": {
+		"albedo": "alphabetblock_I",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_J": {
+		"albedo": "alphabetblock_J",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_K": {
+		"albedo": "alphabetblock_K",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_L": {
+		"albedo": "alphabetblock_L",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_M": {
+		"albedo": "alphabetblock_M",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_N": {
+		"albedo": "alphabetblock_N",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_O": {
+		"albedo": "alphabetblock_O",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_P": {
+		"albedo": "alphabetblock_P",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_Q": {
+		"albedo": "alphabetblock_Q",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_R": {
+		"albedo": "alphabetblock_R",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_S": {
+		"albedo": "alphabetblock_S",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_T": {
+		"albedo": "alphabetblock_T",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_U": {
+		"albedo": "alphabetblock_U",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_V": {
+		"albedo": "alphabetblock_V",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_W": {
+		"albedo": "alphabetblock_W",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_X": {
+		"albedo": "alphabetblock_X",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_Y": {
+		"albedo": "alphabetblock_Y",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.AlphabetBlock_Z": {
+		"albedo": "alphabetblock_Z",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_0": {
+		"albedo": "numberblock_0",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_1": {
+		"albedo": "numberblock_1",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_2": {
+		"albedo": "numberblock_2",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_3": {
+		"albedo": "numberblock_3",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_4": {
+		"albedo": "numberblock_4",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_5": {
+		"albedo": "numberblock_5",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_6": {
+		"albedo": "numberblock_6",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_7": {
+		"albedo": "numberblock_7",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_8": {
+		"albedo": "numberblock_8",
+		"height": "neutral",
+		"normal": "neutral"
+	},
+	"GMS.NumberBlock_9": {
+		"albedo": "numberblock_9",
+		"height": "neutral",
+		"normal": "neutral"
+	}
+}

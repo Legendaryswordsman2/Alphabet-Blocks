@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Alphabet Blocks",
+		"version": "0.1.0.0",
+		"enableddefault": true,
+		"description": "Adds 26 blocks for each letter of the alphabet + number blocks",
+		"dllpath": "Alphabet Blocks.dll",
+		"compatibleversions": [
+			"0.9.0"
+		],
+		"jsonFiles": [
+			{
+				"fileType": "addOrOverrideTextureMappingEntries",
+				"index": -1000000,
+				"relativePath": "textures/texturemapping.json"
+			},
+			{
+				"fileType": "generateBlocks",
+				"index": -1000000,
+				"relativePath": "generateblocks.json"
+			},
+			{
+				"fileType": "addOrOverrideLocalization",
+				"relativePath": "localization/en-US.json"
+			},
+			{
+				"fileType": "addOrReplaceNPCTypes",
+				"index": -1000000,
+				"relativePath": "npctypes.json"
+			},
+			{
+				"fileType": "addOrReplaceNPCRecipes",
+				"index": -1000000,
+				"npcType": "GMS.alphabet_block_crafter",
+				"relativePath": "recipes/recipes_alphabet_block_crafter.json"
+			},
+			{
+				"fileType": "addOrReplaceNPCRecipes",
+				"index": -1000000,
+				"npcType": "pipliz.jobblockcrafter",
+				"relativePath": "recipes/recipes_jobblockcrafter.json"
+			},
+			{
+				"fileType": "addScience",
+				"index": -1000000,
+				"relativePath": "science.json"
+			}
+		]
+	}
+]

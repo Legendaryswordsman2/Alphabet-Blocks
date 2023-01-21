@@ -1,0 +1,783 @@
+[
+	{
+		"baseType": {
+			"attachBehaviour": [
+				{
+					"id": "craftingblock",
+					"npcType": "GMS.alphabet_block_crafter",
+					"onCraftedAudio": "stonemason",
+					"timeBetweenHauls": 30
+				}
+			],
+			"categories": [
+				"job"
+			],
+			"destructionTime": 800,
+			"icon": "gamedata/textures/icons/kiln.png",
+			"needsBase": true,
+			"onPlaceAudio": "dirtPlace",
+			"onRemoveAudio": "grassDelete",
+			"pathingImpact": "AsUntouchableSolid",
+			"sideall": "dirt"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "kiln",
+		"typeName": "GMS_alphabet_block_crafter"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_A.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_A",
+		"typeName": "GMS.AlphabetBlock_A"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_B.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 90,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_B",
+		"typeName": "GMS.AlphabetBlock_B"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_C.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_C",
+		"typeName": "GMS.AlphabetBlock_C"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_D.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_D",
+		"typeName": "GMS.AlphabetBlock_D"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_E.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_E",
+		"typeName": "GMS.AlphabetBlock_E"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_F.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_F",
+		"typeName": "GMS.AlphabetBlock_F"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_G.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_G",
+		"typeName": "GMS.AlphabetBlock_G"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_H.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_H",
+		"typeName": "GMS.AlphabetBlock_H"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_I.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_I",
+		"typeName": "GMS.AlphabetBlock_I"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_J.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_J",
+		"typeName": "GMS.AlphabetBlock_J"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_K.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_K",
+		"typeName": "GMS.AlphabetBlock_K"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_L.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_L",
+		"typeName": "GMS.AlphabetBlock_L"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_M.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_M",
+		"typeName": "GMS.AlphabetBlock_M"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_N.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_N",
+		"typeName": "GMS.AlphabetBlock_N"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_O.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_O",
+		"typeName": "GMS.AlphabetBlock_O"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_P.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_P",
+		"typeName": "GMS.AlphabetBlock_P"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_Q.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_Q",
+		"typeName": "GMS.AlphabetBlock_Q"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_R.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_R",
+		"typeName": "GMS.AlphabetBlock_R"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_S.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_S",
+		"typeName": "GMS.AlphabetBlock_S"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_T.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_T",
+		"typeName": "GMS.AlphabetBlock_T"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_U.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_U",
+		"typeName": "GMS.AlphabetBlock_U"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_V.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_V",
+		"typeName": "GMS.AlphabetBlock_V"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_W.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_W",
+		"typeName": "GMS.AlphabetBlock_W"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_X.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_X",
+		"typeName": "GMS.AlphabetBlock_X"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_Y.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_Y",
+		"typeName": "GMS.AlphabetBlock_Y"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"alphabet_blocks"
+			],
+			"icon": "./textures/icons/alphabetblock_Z.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.AlphabetBlock_Z",
+		"typeName": "GMS.AlphabetBlock_Z"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_0.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_0",
+		"typeName": "GMS.NumberBlock_0"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_1.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_1",
+		"typeName": "GMS.NumberBlock_1"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_2.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_2",
+		"typeName": "GMS.NumberBlock_2"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_3.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_3",
+		"typeName": "GMS.NumberBlock_3"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_4.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_4",
+		"typeName": "GMS.NumberBlock_4"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_5.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_5",
+		"typeName": "GMS.NumberBlock_5"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_6.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_6",
+		"typeName": "GMS.NumberBlock_6"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_7.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_7",
+		"typeName": "GMS.NumberBlock_7"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_8.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_8",
+		"typeName": "GMS.NumberBlock_8"
+	},
+	{
+		"baseType": {
+			"categories": [
+				"number_blocks"
+			],
+			"icon": "./textures/icons/numberblock_9.png",
+			"isSolid": true,
+			"meshRotationEuler": {
+				"x": 0,
+				"y": 90,
+				"z": 0
+			},
+			"needsBase": false,
+			"onPlaceAudio": "stonePlace",
+			"onRemoveAudio": "stoneDelete",
+			"sideall": "GMS.AlphabetBlock_blank"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "GMS.NumberBlock_9",
+		"typeName": "GMS.NumberBlock_9"
+	}
+]
